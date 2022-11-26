@@ -1,0 +1,13 @@
+#rightshift operations
+print("enter the number:")
+a=int(input())
+print("rightshift operations from 2 to 10")
+print("rightshift2 ",a>>2)
+print("rightshift3 ",a>>3)
+print("rightshift4 ",a>>4)
+print("rightshift5 ",a>>5)
+print("rightshift6 ",a>>6)
+print("rightshift7 ",a>>7)
+print("rightshift8 ",a>>8)
+print("rightshift9 ",a>>9)
+print("rightshift10 ",a>>10)
